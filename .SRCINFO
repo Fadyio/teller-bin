@@ -1,0 +1,12 @@
+pkgbase=teller-bin
+pkgname=teller-bin
+pkgver=2.0.7
+pkgrel=1
+pkgdesc="Binary package of Teller - Cloud native secrets management for developers"
+url=https://github.com/tellerops/teller
+arch=('x86_64')
+license=('Apache-2.0')
+depends=()
+optdepends=()
+provides=('teller-bin=2.0.7')
+sha256sums=('3f4d13aeb516f3c330809f0dc22119d7b7bcb757c0c441431734c0746bf9684f')
