@@ -1,9 +1,9 @@
 # Maintainer: Fady Fady@Fadyio.com
 
-pkgver=2.0.7
-pkgrel=1
 pkgbase=teller-bin
 pkgname=teller-bin
+pkgver=2.0.7
+pkgrel=1
 pkgdesc="Binary package of Teller - Cloud native secrets management for developers"
 arch=('x86_64')
 url="https://github.com/tellerops/teller"
