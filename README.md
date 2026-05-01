@@ -1,10 +1,12 @@
+# This project is archived the original Teller appears abandoned and I moved to Doppler.
+
 # teller-bin
 
 This package provides the Teller binary for Arch Linux.
 
 ## Description
 
-Teller is a cloud-native secrets management solution designed for developers.  This package installs the `teller` command-line tool.
+Teller is a cloud-native secrets management solution designed for developers.  This package installs the `teller` command-line tool in arch linux.
 
 ## Installation
 
@@ -20,4 +22,4 @@ Refer to the Teller documentation for usage instructions: [https://github.com/te
 
 ## License
 
-Apache-2.0
+MIT
